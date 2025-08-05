@@ -1,0 +1,1 @@
+cherry pick is selecting the specific commit from one branch and apply to another branch not merge a whole branch
